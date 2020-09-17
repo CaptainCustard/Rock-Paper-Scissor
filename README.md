@@ -1,2 +1,3 @@
-This is Rock-Paper-Scissors game against radomized CPU! \n
+This is Rock-Paper-Scissors game against the CPU! 
+
 Enjoy!
