@@ -1,3 +1,7 @@
 //You cannot ignore the .gitignore file.
 
 .DS_Store
+node_modules
+.eslintrc.js
+Package-lock.json
+Package.json
