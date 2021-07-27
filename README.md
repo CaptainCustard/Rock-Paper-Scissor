@@ -1,1 +1,6 @@
-Play a game of rock-paper-scissors against the computer! The first to win 5 times win the round. Try it out [here](https://captaincustard.github.io/rock-paper-scissors/).
+# Rock-Paper-Scissors
+Play a game of rock-paper-scissors against the computer! The first player to win 5
+times win the round. 
+
+## Demo
+Try it out [here](https://oasaleh.github.io/rock-paper-scissors/).
